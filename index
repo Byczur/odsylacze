@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head lang="pl-PL">
+    <title>Odsyłacze pocztowe i obrazkowe</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Piotr Sersan">
+    <meta name="keywords" content="">
+    <meta name="description" content="Strona o odsyłaczach">
+    <meta name="robots" content="all">
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap" rel="stylesheet">	    
+</head>
+<center>
+<a href="mailto:p.sersan.279@sltzn.katowice.pl">Kontakt</a>
+<p>
+<h3>Wiadomości</h3>
+<a href="https://www.youtube.com/watch?v=gge9wiAJUO4" target="_blank">Wiadomości</a>
+<img src="zdj.png" alt="Zdjęcie" />
+</p>  
+</center>
+</body>
+
+</html>
